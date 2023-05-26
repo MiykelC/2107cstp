@@ -1,0 +1,35 @@
+.header-container {
+    background-color: #f77445
+  }
+  
+  
+  .navlinks a{
+    padding: 10px 20px;
+    color: rgb(255, 255, 255);
+   
+  }
+  .navlinks a:hover{
+    color: rgb(0, 0, 0);
+  }
+  
+  .nav-con a {
+    font-size: 15px
+  }
+  
+  .logoCon img{
+    width: 120px;
+    height: 100px;
+  
+  }
+  
+  nav {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .navlinks {
+    display: flex;
+    flex-direction: column;
+    justify-content: center ;
+  }
+  
