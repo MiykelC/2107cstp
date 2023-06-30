@@ -6,10 +6,6 @@ import FlagDetails from './pages/FlagDetails'
 
 
 function App() {
-
-  
-
-
   let element = useRoutes([
   {
      path : '/',
