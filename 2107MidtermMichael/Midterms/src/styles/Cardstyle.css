@@ -1,0 +1,27 @@
+.mvCardCon {
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    margin-top: 50px;
+    
+ 
+}
+
+.mvCardCon img {
+    width: 300px;
+    height: 200px;
+}
+
+.mvCardInfo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.mvCardInfo h4 {
+    font-size: 1.0rem;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+

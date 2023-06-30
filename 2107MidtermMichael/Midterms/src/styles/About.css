@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
+
+
+.AboutLogo  {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    max-height: 600px;
+    margin-top: 60px;
+}
+
+.AboutLogo img {
+    height: 250px;
+    width: 250px;
+}
+
+.AboutLogo h1 {
+    font-size: 2.0rem;
+    font-family: 'Oswald', sans-serif;
+}
